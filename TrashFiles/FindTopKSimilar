@@ -1,0 +1,16 @@
+def getTopKValues(similarityMatrix, id, k):
+    sortedMatrix =sorted(similarityMatrix.items(), key=lambda x: x[1], reverse= True)
+   # similarityMatrix.sort_values([id], inplace=True, ascending=False)
+    #if id in similarityMatrix.index:
+    #similarityMatrix.drop(id, inplace=True)
+
+    similarityValues = {}
+    counter = 0
+    #while counter < int(k):
+    for key, value in sortedMatrix:
+        if counter < int(k):
+            similarityValues[key] = value
+        else:
+            break
+        counter = counter + 1
+    return similarityValues

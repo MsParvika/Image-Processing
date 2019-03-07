@@ -1,0 +1,63 @@
+Task 1
+    Input: 10288162@N07 TF 5
+    Output :
+        userId - 29172291@N00, similarity value - 0.7020070745274039
+        userId - 90514086@N00, similarity value - 0.6282141673547093
+        userId - 45048551@N02, similarity value - 0.6217797230764925
+        userId - 99568809@N00, similarity value - 0.5893919506476408
+        userId - 74847775@N00, similarity value - 0.5872585976457086
+        Top 3 similar words for userId : 29172291@N00
+        "de"
+        "triomphe"
+        "arc"
+        Top 3 similar words for userId : 45048551@N02
+        "de"
+        "triomphe"
+        "arc"
+        Top 3 similar words for userId : 74847775@N00
+        "de"
+        "triomphe"
+        "arc"
+        Top 3 similar words for userId : 90514086@N00
+        "triomphe"
+        "arc"
+        "de"
+        Top 3 similar words for userId : 99568809@N00
+        "de"
+        "triomphe"
+        "arc"
+
+Task 2:
+
+    Input: 9067738157 tf 5
+    Output:
+        ImageId - 9067739127, similarity value - 1.0
+        ImageId - 9069963392, similarity value - 1.0
+        ImageId - 9067738777, similarity value - 1.0
+        ImageId - 5251534830, similarity value - 0.9486832980505138
+        ImageId - 5251536390, similarity value - 0.9486832980505138
+        ImageId - 4934528512, similarity value - 0.9185586535436919
+        Top 3 similar words for imageId : 9067739127
+        "athen"
+        "acropoli"
+        "greece"
+        Top 3 similar words for imageId : 9069963392
+        "athen"
+        "acropoli"
+        "greece"
+        Top 3 similar words for imageId : 9067738777
+        "athen"
+        "acropoli"
+        "greece"
+        Top 3 similar words for imageId : 5251536390
+        "athen"
+        "acropoli"
+        "greece"
+        Top 3 similar words for imageId : 5251534830
+        "athen"
+        "acropoli"
+        "greece"
+        Top 3 similar words for imageId : 4934528512
+        "athen"
+        "acropoli"
+        "greece"
