@@ -3,14 +3,15 @@ The project experiments with
 • text and image features,
 • vector models, and
 • similarity/distance measures
+**_Not meant to be Copied
 
 
 ### Getting Started
 ```
-- Open a terminal. Browse into Project directory - MWDB-P1
+- Open a terminal. Browse into Project directory -Image Processing
  - For Windows: Type "RunMe.py"
  - For Mac and Linux: Type "python ./RunMe.py"
-Note: Project creates a local connection(localhost:27017) with MongoDb and creates/uses DataBase name "MWDB_Phase1"
+Note: Project creates a local connection(localhost:27017) with MongoDb and creates/uses DataBase name "ImageProcessing"
 ```
 
 ### Format of the input
