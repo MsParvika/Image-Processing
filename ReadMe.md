@@ -3,7 +3,7 @@ The project experiments with
 • text and image features,
 • vector models, and
 • similarity/distance measures
-**_Not meant to be Copied
+##### Not meant to be Copied
 
 
 ### Getting Started
