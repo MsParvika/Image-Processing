@@ -1,11 +1,11 @@
-#Image Processing
+# Image Processing
 The project experiments with
 • text and image features,
 • vector models, and
 • similarity/distance measures
 
 
-###Getting Started
+### Getting Started
 ```
 - Open a terminal. Browse into Project directory - MWDB-P1
  - For Windows: Type "RunMe.py"
@@ -13,7 +13,7 @@ The project experiments with
 Note: Project creates a local connection(localhost:27017) with MongoDb and creates/uses DataBase name "MWDB_Phase1"
 ```
 
-###Format of the input
+### Format of the input
 - Inputs except Directory Path should be space separated.
 - The model type name should be all in upper case
 e.g.  Command: Enter directory path
@@ -24,12 +24,12 @@ e.g.  Command: Enter directory path
        Input:abc@N00 TF 3  (space separated, uppercase Model name)
 
 
-###Prerequisites
+### Prerequisites
 - Python 3 or better should be installed and configured on the system
 - MongoDb v4.0.2 should be installed and configured
 
 
-###Libraries Required
+### Libraries Required
 ```
 math
 pymongo
@@ -38,6 +38,6 @@ sklearn.Kmeans
 pandas
 ```
 
-###Authors
+### Author
 Parvika Singhal
 psingha4@asu.edu
